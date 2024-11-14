@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896F28DE-EED8-4118-8181-622B6543AC3F}|Homework2Library.csproj|c:\\users\\jash\\desktop\\new folder\\transactionlibrary-13-11-2024\\foo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F28DE-EED8-4118-8181-622B6543AC3F}|Homework2Library.csproj|solutionrelative:foo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Foo.cs",
+              "DocumentMoniker": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Foo.cs",
+              "RelativeDocumentMoniker": "Foo.cs",
+              "ToolTip": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Foo.cs",
+              "RelativeToolTip": "Foo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:34:22.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

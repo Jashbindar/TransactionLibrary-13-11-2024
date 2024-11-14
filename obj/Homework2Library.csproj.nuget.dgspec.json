@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Programming\\OOP\\Homework2Library\\Homework2Library.csproj": {}
+    "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Homework2Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Programming\\OOP\\Homework2Library\\Homework2Library.csproj": {
+    "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Homework2Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Programming\\OOP\\Homework2Library\\Homework2Library.csproj",
+        "projectUniqueName": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Homework2Library.csproj",
         "projectName": "Homework2Library",
-        "projectPath": "C:\\Users\\User\\Desktop\\Programming\\OOP\\Homework2Library\\Homework2Library.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Programming\\OOP\\Homework2Library\\obj\\",
+        "projectPath": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\Homework2Library.csproj",
+        "packagesPath": "C:\\Users\\jash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jash\\Desktop\\New folder\\TransactionLibrary-13-11-2024\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

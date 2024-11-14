@@ -11,13 +11,13 @@ namespace Homework2Library
     public class UserTransaction
     {
         [FirestoreProperty]
-        public string TransactionReason { get; set; }
+        public string ?TransactionReason { get; set; }
         [FirestoreProperty]
         public double amount { get; set; }
         [FirestoreProperty]
         public DateTime TransactionDate { get; set; }
         [FirestoreProperty]
-        public string transaction_id { get; set; }
+        public string ?transaction_id { get; set; }
 
         public UserTransaction() { }
         public UserTransaction (double a_amount, string a_transactionreason, DateTime a_datetime)
