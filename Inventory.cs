@@ -11,7 +11,7 @@ namespace Homework2Library
     [FirestoreData]
     public class Inventory
     {
-        List<Item> items;
+        public List<Item> items;
 
         public Inventory ()
         {

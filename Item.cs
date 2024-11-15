@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Google.Cloud.Firestore;
+using static Google.Cloud.Firestore.V1.StructuredAggregationQuery.Types.Aggregation.Types;
 
 namespace Homework2Library
 {
@@ -21,6 +22,15 @@ namespace Homework2Library
         public string itemID { get; set; }
 
         public Item() { }
+
+        public Item(string a_itemname, int a_itemcount, double a_price)
+        {
+            itemname = a_itemname;
+            itemcount = a_itemcount;
+            price = a_price;
+            itemID = Convert.ToBase64String(Guid.NewGuid().ToByteArray()).Replace("=", "").Replace("+", "-").Replace("/", "_");
+        }
+
         public Item(string a_itemname, int a_itemcount, double a_price, string a_itemID)
         {
             itemname = a_itemname;
